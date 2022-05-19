@@ -16,3 +16,7 @@ Méta-dépôt du géocodeur de la BAN (API Adresse)
 | [api-geocode](https://github.com/BaseAdresseNationale/api-geocode) | Gestion améliorée du géocodage de fichiers CSV | [@jdesboeufs](https://github.com/jdesboeufs) |
 
 NB : nous utilisons aussi les plugins [addok-trigrams](https://github.com/addok/addok-trigrams) et [addok-sqlite-store](https://github.com/addok/addok-sqlite-store)
+
+## Démarrage rapide
+
+Pour installer très facilement une instance locale du géocodeur BAN, suivez ce guide : https://github.com/BaseAdresseNationale/addok-docker
